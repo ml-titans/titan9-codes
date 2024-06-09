@@ -3,3 +3,4 @@
 
 * [次世代の Jupyter notebook「marimo」 で作るインタラクティブなデータ分析報告書](./marimo/)
 * [コピュラピピック](./copula/)
+* [マウスぽちぽちでできる！2週間で作って理解するCPU](./logisim-cpu/)
