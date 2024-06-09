@@ -32,4 +32,19 @@ logisimを使い、以下のステップでCPUを作ってみましょう。各�
 
 ## 参考書籍、今後の発展
 
-- 更新中
+### GPU、AIアクセラレータをさらに知る
+
+- [GPUを支える技術 ――超並列ハードウェアの快進撃](https://amzn.to/3VAygnF)
+
+### CPU自作の発展
+
+- [動かしてわかる CPUの作り方10講](https://amzn.to/3uOp6dF)
+- [Build an 8-bit computer from scratch](https://eater.net/8bit)
+- CODE - コードから見たコンピュータのからくり
+  - [第1版 (2003/4/14)](https://t.co/N9WX2LdY8A)
+  - [第2版 (2024/2/22))](https://t.co/HzSITbMn01)
+- [RISC-VとChiselで学ぶ　はじめてのCPU自作 --オープンソース命令セットによるカスタムCPU実装への第一歩](https://amzn.to/3uJpxWK)
+- [コンピュータの構成と設計 MIPS Edition 第6版 上・下電子合本版](https://amzn.to/3SV0GHg)
+- [grself/CIS221\_Lab\_Manual: This is the Logisim-Evolution lab manual I use with my Cochise College CIS 221 Digital Logic class.](https://github.com/grself/CIS221_Lab_Manual)
+- [Visual 6502 Remix](https://floooh.github.io/visual6502remix/)
+- [CIS 221: Logisim-Evolution Labs 再生リスト](https://youtube.com/playlist?list=PLvjlcTfwDj4spSN4g3S8IHbqY4Qkb5LxP&si=ihZGoc8z_BW_BCFK)
